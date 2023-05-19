@@ -201,6 +201,11 @@ hash = "fb537f8737c8ee73a27c661ada6636b972a9a580dfd989bd1eabbec50b97a901"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "dfaef78e5e9b6078581105a50b06b94bb4cfaf1be07b5919567d99d7580e6264"
+metafile = true
+
+[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "89bf482b8a586bd748e9b3c0c12bcacaa08cc698482ab77de75ac63d95008036"
 metafile = true
