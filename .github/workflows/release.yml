@@ -32,3 +32,4 @@ jobs:
             artifacts: "*.zip"
             generateReleaseNotes: true
             makeLatest: true
+            skipIfReleaseExists: true
