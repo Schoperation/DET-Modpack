@@ -16,6 +16,11 @@ hash = "11470c9f81d732cd05f7448854a22dac318e3bc754da02c3b6f473769f0030a6"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "fceb5e51e94c45f9010b6d2f6ccc477e78176c6d3565756d4b4ae811cfd3dd2b"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "48a1be62231995c1870fd839f9262470235e1c52f8ba07b36daceee50e8580d4"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "802880a54a5f68cd1464be842acd9a7d474a31284de1529f67366a24c1e29466"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
 metafile = true
 
 [[files]]
@@ -398,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/utilitix.pw.toml"
 hash = "650fbe8641d6aaa7ee05d48e2da78d673dd59793c8e7609a7798dbb846bc3dd3"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "262e2dd498b28d5b10e10b8065ba49f39cbe2cc16f9cdf55c6d3c0ecf2f4b9fd"
 metafile = true
 
 [[files]]
