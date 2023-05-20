@@ -20,9 +20,8 @@ jobs:
       - name: Set Version
         run: |
             echo "MODPACK_VERSION=$(cat version.txt)" >> $GITHUB_ENV
-            echo "New version is $MODPACK_VERSION"
 
-      - name: Export to CurseForge 
+      - name: Export to CurseForge Pack File 
         run: ./packwiz cf export
 
       - name: Create Release
