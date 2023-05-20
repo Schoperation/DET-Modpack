@@ -26,7 +26,7 @@ jobs:
         run: ./packwiz cf export
 
       - name: Create Release
-      - uses: ncipollo/release-action@v1.12.0
+        uses: ncipollo/release-action@v1.12.0
         with:
             commit: "master"
             tag: "$MODPACK_VERSION"
