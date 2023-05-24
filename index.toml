@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "fceb5e51e94c45f9010b6d2f6ccc477e78176c6d3565756d4b4ae811cfd3dd2b"
+hash = "db0a6a9c7d7c84ff18029f21a083e445ace641b6568453ffeddc0c406a6673e9"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "ccae58379e56d3148c08a27bcd825b1c7f50c984f7d970d5235dae638b3b4f51"
+hash = "6652963a36a833070b3fb7959083682a4580da18ed642c43bf05d1524012c43e"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "3aba82a76f78a55aff9efd9398a3497a30984ec9f72a858a5f64c997c32fae43"
+hash = "24f0c5048d59e765bca62b9abfb00e789a2e7a1c620b30668195dba7c3c90032"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "86e17fc71d4aa4477f820b5ce809eeb7c2d68bf2375d6ae763b97874eb605ccf"
+hash = "5699c0f9c7aae8254080b512f9dff5822fc6b82b9541b48f363b2810cf47119b"
 metafile = true
 
 [[files]]
@@ -462,17 +462,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "18f9d2a42bfa0d4c33e545d0e04f03ab8e92ee379cdab071d87ac56c330ffc69"
+hash = "5b1a78ae497977fdd1a0f9068368f4806bcd8cc627bfa6c947e0f5fcec2961be"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "7ad4c554d2d59b0c52e48670371695a63f087f85cfaed4d37477818260d600dc"
+hash = "db9bb383bfa9ced1286549b5b0c2c4a2979d5e4ab39c6e86d7e01bf690f9b7a8"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "0220e15976651979c928af6f9b9c2f41adae673cc7cbaecf5359a497c44d8401"
+hash = "1e9fea26510cbc2ec8f64aa1049cba2016e48b78882949730160d5b501dcce95"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "80b9078ef39c133105251c0c1c710cb2f8c165e1039faf72cf6bdc41f259576c"
+hash = "06a2f48ca0bcedfface8eed9e47a2709ad1bcdaa8097c6bf237fe346e54127eb"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit-forge.pw.toml"
-hash = "602a303125738c85f3e7617662020f52724ef1e5f50815359e9a1a6b7a9fffc5"
+hash = "60f910dffbb7deaf3272b7b927096096b64f6c1b7280c752107516ef95c61c5a"
 metafile = true
 
 [[files]]
