@@ -1,8 +1,53 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "f9bf8815cf72e7fff1144b7ab3f7dcfaf04f4a1b5774bba1363b1a8a5152e6d6"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "3622e68fae0babddf22e923b7bbe29290fccde17cf439aa958d3f1e0fa5b4170"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "6e32f4ddb3cdd9d5de11927b3ce4b191de4f745269fea9708bfc94790b7a793a"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "e2e1a4d16ef68ddffa90a4d0f3fe339732991a128938c5452630d847cbf9a0c6"
+
+[[files]]
+file = "config/apotheosis/names.cfg"
+hash = "19f4c758af3350071ac58385d61c8442ba5813945b01e014c557202e073eb518"
+
+[[files]]
+file = "config/apotheosis/potion.cfg"
+hash = "c5f6fd0d38e12617717494712d00a8539b2120a9bef73535d2a7821a933a496c"
+
+[[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "2754c23d924e54503f79735a93c024cadf2a1a2e1ab0fa4acc6c49d4012c5d44"
+
+[[files]]
+file = "config/apotheosis/village.cfg"
+hash = "9c06164bad9a22d779a4986dc231071e7a9d3bc8f1d7d67fa277999e510d2a78"
+
+[[files]]
+file = "config/dsurround/environs-client.toml"
+hash = "8b47366e0b7970c14cc411e80ebf69497673896824bee5112c0d6da2341a5b3c"
+
+[[files]]
+file = "config/dsurround/mobeffects-client.toml"
+hash = "61633cca7737d9788e2633cb18f035b3c53d586ff0e9834226f2993377d01a9b"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "607f59c6a965d6f80bef23be9fcd28b9bd2a5b9fb2f037c27b91b35692e1811a"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "1ce46646a8efe8e91e4f227ec0d2eae82c6723964f84d46512026774a213fea8"
 metafile = true
 
 [[files]]
@@ -13,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "11470c9f81d732cd05f7448854a22dac318e3bc754da02c3b6f473769f0030a6"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "bd7ce1265b284982156ff63de08d0b94f621aaf4a09254ee271a095c74995992"
 metafile = true
 
 [[files]]
@@ -66,6 +116,16 @@ hash = "c8e7c5ac6a6ff113e87d004e59406a05d5571a85e17f0972b324f54f7b3f3ef2"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "c8631f3fd8be077cf68e2223c121a058e559531e13746e562d1acaa3ec04b4ed"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "9c6f89d65804f3f09d774105c6a9afda57c949f7c0610689eb9c09de8cc3f1b8"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "dec5b7bd20fe2c05bc53d06be0227ce36e483df2b6ea9c449d30ba76a5f7ab8c"
 metafile = true
@@ -93,6 +153,21 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "5de1c8b85b74ef9c2cabda3e70fec7e84c02b745f0036ab747acda9492af89bf"
+metafile = true
+
+[[files]]
+file = "mods/compat-o-plenty.pw.toml"
+hash = "e111aa7a3eaf782eed64b526b9accdd353205fb91536ba10160138ead40447d7"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
 
 [[files]]
@@ -131,6 +206,11 @@ hash = "2858af1e26e8b5f7e6c89d1cbaf53c2c534baa107009e4a3bf32616f66d550f0"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
+metafile = true
+
+[[files]]
 file = "mods/engineers-decor.pw.toml"
 hash = "a0b24d16f429dad6e11ff6fd0e3d556d9260378bd10768611e161fa64b764e9d"
 metafile = true
@@ -163,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "2f2c74dc7503ce9fddcd3de92b9d98aa6b64c90ca401b60603c954fc35b9c627"
+metafile = true
+
+[[files]]
+file = "mods/gamemenumodoption.pw.toml"
+hash = "a369f7aefec88143a1978559f80266d41aecdb2ad81066932648ad8feaf0c815"
 metafile = true
 
 [[files]]
@@ -226,8 +311,18 @@ hash = "ccae58379e56d3148c08a27bcd825b1c7f50c984f7d970d5235dae638b3b4f51"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "eebad9183a63f374b30152d791e34faf5799fcfdacace25a3222f19fd0b8959e"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "0b8ad37ee1bbf8eb65e7f32cfd52b589db3b47e738204c41728ec56f99afcf74"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "a41f41807831a1a4b1885b0be9a351841c9071cf2a90f2f2eb2e40a1330842a3"
 metafile = true
 
 [[files]]
@@ -291,6 +386,11 @@ hash = "85e504b66d6682af0146ce5b0ba487a276a71562b10783603cbbcda8da88baa3"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "9656604f85b22fe3c05f27a507ca7ec6f17b5745faea6382f865b2774c0bb909"
+metafile = true
+
+[[files]]
 file = "mods/pluto.pw.toml"
 hash = "4ccba84a626f957a1e5bbdcc93be31b6b9fc688061f6ba5aacfb43bc4465a562"
 metafile = true
@@ -348,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "86e17fc71d4aa4477f820b5ce809eeb7c2d68bf2375d6ae763b97874eb605ccf"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "b10cf4486d633d388564774a8e407124d1343d0bc20aef761572fff04d3657f3"
 metafile = true
 
 [[files]]
