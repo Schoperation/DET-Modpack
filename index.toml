@@ -61,6 +61,11 @@ hash = "11470c9f81d732cd05f7448854a22dac318e3bc754da02c3b6f473769f0030a6"
 metafile = true
 
 [[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "8e686da2db44388474f16c6eba6da8529319ae3284622bd6600c1d460f5ac388"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "bd7ce1265b284982156ff63de08d0b94f621aaf4a09254ee271a095c74995992"
 metafile = true
@@ -136,8 +141,18 @@ hash = "99192cbb2aa5019f9064cfbe02c069a74b12b060f40a927c1654b2a7680ed4c1"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "29be165ef28b3ed412ccd33fdce3387170002647033e090dd382040587ca738d"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "60061bee2adc96c9e68daff1e9103f3ccacd6b64233926621f38c8fe7ff819cd"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "9a0923ead8905649bc1260301508dc349ec7dd134fd8278a67e144d1f3ed68df"
 metafile = true
 
 [[files]]
@@ -148,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "79d38d4c976dadf89d2fd2978a0af50894ae0373fd784fecb369e47beda145bf"
 metafile = true
 
 [[files]]
@@ -211,6 +231,11 @@ hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true
 
 [[files]]
+file = "mods/ender-storage-1-8.pw.toml"
+hash = "b8ba0a251d14abf255a8477337c2d81023228c779793218ef3990247632ef86e"
+metafile = true
+
+[[files]]
 file = "mods/engineers-decor.pw.toml"
 hash = "a0b24d16f429dad6e11ff6fd0e3d556d9260378bd10768611e161fa64b764e9d"
 metafile = true
@@ -253,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "a09762f8f867b06b55b564bf8bc570a308c8610890b8680f91a44217c751a0e6"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "4638b07d166445da41d0f17e4300592be3592c4b62214081197794bd577443e4"
 metafile = true
 
 [[files]]
@@ -506,6 +536,11 @@ hash = "0d59965134e837bc8d4c3a8b43788b493317070cc00f61de7beef0764981857a"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "eb445d9519a2a81b60706da33663b2fc8201de6d486d98489a0f97fa1b0b00a9"
+metafile = true
+
+[[files]]
 file = "mods/universal-enchants-forge.pw.toml"
 hash = "bbff1b0a4203256bf72932dee3e5bbab809754a7dbe414262278ad64598b2024"
 metafile = true
@@ -518,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "262e2dd498b28d5b10e10b8065ba49f39cbe2cc16f9cdf55c6d3c0ecf2f4b9fd"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "357eaf83f5615032d4d677b4398584db5ef240d2d44b9d0433e546e1c20996f6"
 metafile = true
 
 [[files]]
