@@ -336,6 +336,11 @@ hash = "89bf482b8a586bd748e9b3c0c12bcacaa08cc698482ab77de75ac63d95008036"
 metafile = true
 
 [[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "30a98c2d143d15fd3916892e63bb0269f4b1124d09220315959f62e3afbf7d0d"
+metafile = true
+
+[[files]]
 file = "mods/macaws-trapdoors.pw.toml"
 hash = "6652963a36a833070b3fb7959083682a4580da18ed642c43bf05d1524012c43e"
 metafile = true
@@ -423,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/pluto.pw.toml"
 hash = "4ccba84a626f957a1e5bbdcc93be31b6b9fc688061f6ba5aacfb43bc4465a562"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "a0b717e012441e2bef8d9c1b7222dd9b25adf06d55ace1144eabf3ee6f637733"
 metafile = true
 
 [[files]]
@@ -548,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/utilitix.pw.toml"
 hash = "650fbe8641d6aaa7ee05d48e2da78d673dd59793c8e7609a7798dbb846bc3dd3"
+metafile = true
+
+[[files]]
+file = "mods/walkie-talkie.pw.toml"
+hash = "5f5f584c75025de1275f6b0a646974ef1e81b192b9cb21a3e41b728b5f8c5e70"
 metafile = true
 
 [[files]]
