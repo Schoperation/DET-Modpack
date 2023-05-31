@@ -3,7 +3,19 @@
 The Newest, Ultimate Modpack from JaredSheep & Co.!
 Basically the core of ATM8, with some different world gen mods, and whatever we want later on!
 
-# Downloading
+## Downloading
+
+### CurseForge
+
+- In the CurseForge Launcher, search for "Packin' DET" and create a new profile with it.
+- Or, head on over to https://www.curseforge.com/minecraft/modpacks/packin-det and click Install.
+- Once everything's downloaded, click play on the profile, wait for the Minecraft Launcher, then click Play, then wait some more!
+
+### MultiMC and Pals
+
+- Should be similar to the CurseForge steps; if you're on a fork that can download CurseForge modpacks, you can search for "Packin' DET" and download it from there. Otherwise, you may have to do it manually...
+
+### Manually
 
 - Head on over to the righthand side, and click Releases. The first one should be the latest one. 
 - Download the attached ZIP file (NOT the source code...)
@@ -21,11 +33,16 @@ Basically the core of ATM8, with some different world gen mods, and whatever we 
     - Profit
 
 
-# Updating
+## Updating
 
-Unfortunately, the only real way right now to auto-update is for me to create a curseforge project. If there's enough demand, then I can go ahead and bite the bullet; though it won't be fun going through the approval process with every new file, and getting yelled at for saying it's "just for my friends and I."
+### CurseForge / MultiMC and Pals
 
-However, PackWiz, the modpack manager I use, does have a way that works with MultiMC, or any launcher that allows custom java commands to be run on launch (don't know if curseforge allows that).
+- In the launcher, edit your modpack profile where you should be able to change the version you're on. When a new version is out, you can select that and it'll automatically update.
+
+
+### Semi-Automatically
+
+Packwiz, the modpack manager I use, has a way of updating semi-automatically that works with MultiMC, or any launcher that allows custom java commands to be run on launch (don't think CurseForge allows that).
 
 Follow steps 1, 2, and ... 1 (lol) in this guide to set that up.
 https://packwiz.infra.link/tutorials/installing/packwiz-installer/
