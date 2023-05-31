@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "f7a3e7000b1babc57896bfc34200102ca75b951ef7dc67984301261ef8e999c7"
+hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
 
 [[files]]
@@ -127,12 +127,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "9c6f89d65804f3f09d774105c6a9afda57c949f7c0610689eb9c09de8cc3f1b8"
+hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "dec5b7bd20fe2c05bc53d06be0227ce36e483df2b6ea9c449d30ba76a5f7ab8c"
+hash = "b28c3da3ee3ca475f8c79cbc4e8eb2f5fd44ab488bc14bfdf1fc04dc6f6e67c4"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surrounding-resurrected.pw.toml"
-hash = "e81dde4707209b0d20c236a8921d7e8ac115ad8d70603aff09199f86cb60c4bc"
+hash = "2858af1e26e8b5f7e6c89d1cbaf53c2c534baa107009e4a3bf32616f66d550f0"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/incendium.pw.toml"
-hash = "b74024263562cb534499952b3d83dbdc229e9adf655315d941f5a1e4c5951c85"
+hash = "4095719b36b871442c566d3768743c4d439d9922302aa8fd7f5e9b0bda5cd780"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "35dfd476a644abffce8b0d1c0cd383a47fc4511bd4c709dbc46edfb74c19c606"
+hash = "efc13c7bc347def6d1175ffb85610195c261c3267603c43b477901756d1d8dff"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "357eaf83f5615032d4d677b4398584db5ef240d2d44b9d0433e546e1c20996f6"
+hash = "7d2e0273da8d791d99e5f3325f9e8abef30ce2e1e55b970dda863d0c54827235"
 metafile = true
 
 [[files]]
@@ -602,10 +602,15 @@ metafile = true
 
 [[files]]
 file = "mods/zetter-gallery.pw.toml"
-hash = "2f4fb7aa6af1592327ffc69caea0a58fed9a8a4dc01321e790068c885f866548"
+hash = "6a5fedc76e625c2aab41b9cc454bf4d8f0aa12b8a3ed5976dcae49d2f8de3495"
 metafile = true
 
 [[files]]
 file = "mods/zetter.pw.toml"
-hash = "493a1ec3d1ec2db6d20d71f7cc564975473ca852082fffc8d203be4ffd46c552"
+hash = "61e9787d5d764352591df69cc0ef09f34c1b754efc0236a982cd1f09001055f9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dynamic-surroundings-sounds-pack.pw.toml"
+hash = "b1858e68ed54c4c70013e767704800522fff7fa77967998004c2dcecc3def6a9"
 metafile = true
