@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "1f6dcf6c39afd07f75935db5c750406d9776bf69668e11b58382fb80192e9e66"
+hash = "8b9ca62e9e45a92769faee6517dac6ea1f5bda96a50c35fc492fb76ef480897c"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "9fa687f975527b4910ba5a3c2f0fa44c0480a9854c9ea6c01f77e710bf4027d3"
+hash = "df737402274b0cd7be194b304d3bf421af2f87af33b2a60da75a1ae3bb1bf688"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
-hash = "2f2c74dc7503ce9fddcd3de92b9d98aa6b64c90ca401b60603c954fc35b9c627"
+hash = "ccb3c8272123ce10ab0067eca6f414a263f0f9768ba1afe846f5b4b8ec59507f"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
-hash = "a99928ce0ae3b3172669e8a43a30256009592ac5e9cd127e5da7d6d3eca65451"
+hash = "b60fa97b494b38d79cd7f2add56d7426d9692436541be0afe0dcf43713246dd4"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "79c6b9f46c4be84ea2c8e1244f9c7547d747ec9040528625b2e489f22061065c"
+hash = "f125d8b8aec99b8e0e2046d6c92617c07262736cdc627d1d371de343cd5a291a"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "939d720cc5bc8662fc0e762e6c78e0028b427282f700b3ac37863be6e74568f3"
+hash = "d0a7ce24e946a5a9783db5bd2c7f518a173c4808e7733529255a7d95d24f57fc"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0c7fe26a67dd87d721de2c900ca7f3c8813efd09a78a2a61a124d1ddfb05cb68"
+hash = "b0ce10ca8f3e7b9d3bf7d738f084ce8da7d062517fde73fd6527b56e28164774"
 metafile = true
 
 [[files]]
