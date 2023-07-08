@@ -1,13 +1,13 @@
-name = "Dynamic Surroundings Sounds Pack"
-filename = "§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.3.zip"
+name = "Dynamic Surroundings:Remastered Sounds Pack"
+filename = "§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.4.1.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9ad66f142a22ed01b10fceb970924b652202cb38"
+hash = "26f00ac7ad79e8c5b720fcc2f1791b79bacb7bc9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4579884
+file-id = 4627314
 project-id = 827450
