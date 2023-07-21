@@ -246,6 +246,16 @@ hash = "fc61146eab089feb4f979289ba3aca698b538aa5bd3eba5f18ac0c80090c589f"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "e001ea41a138e42e5523e69b13523c1ebf76a1633320b3a7942b4eef76d36861"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "fb43a2bb5fc3c56a05fc8ae902610e5f7ab46f62e58d50b1ec34390ce5698335"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
 metafile = true
@@ -486,8 +496,18 @@ hash = "c5ad892ccacff7bec1c317ecad14dfb03a4ff230f501e66f18ef472707855894"
 metafile = true
 
 [[files]]
+file = "mods/saturn.pw.toml"
+hash = "f58f6967e5b7d2d966a439edf6f27a89290c41a87049c0ed7324c887bbd6998c"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "ac044748ca461791a080a4f1259451bc4ab258851fab9cc282e7a7c23ec86bcf"
+metafile = true
+
+[[files]]
+file = "mods/simple-planes.pw.toml"
+hash = "9e6384fda075dcd6c01df35fbe95df1f0fec821ad9f24e5fb74d8b43100d959a"
 metafile = true
 
 [[files]]
@@ -498,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/simply-light.pw.toml"
 hash = "ea9c81ef618e5b7189dafd23aae5fd615348486261111697be25023df5f6fdb5"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
 metafile = true
 
 [[files]]
@@ -513,6 +538,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "5244e9fb9f8dfd65ad46c592d1c19b5c5f2d7500a85048cc12e264d59d45e4ef"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "ba26679040d0ccb8fcb862441da0487bbafba2b2c9f68ae2fbf7366b1fdd20df"
 metafile = true
 
 [[files]]
