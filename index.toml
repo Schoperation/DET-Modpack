@@ -191,11 +191,6 @@ hash = "ff54075e027c8b92cd02c42e5030108cffb34358b92fd3ab4adcaf47c9d5b898"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "66e1f2dd3270ba592a425db035fd894655ee32389385843f08ec0e18b8e38d3d"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "6947155bf1ded4ed97e11e0c5b113266d706612f3b986adb297ec890681d881c"
 metafile = true
@@ -263,11 +258,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
-metafile = true
-
-[[files]]
-file = "mods/flywheel.pw.toml"
-hash = "3e9b9722da123b1d4120f0d9aba8de9968aba4aad6e9c7564423672171e00d9e"
 metafile = true
 
 [[files]]
@@ -668,9 +658,4 @@ metafile = true
 [[files]]
 file = "mods/zetter.pw.toml"
 hash = "a08b813c50f06062ad9bd52a76656324e772ec4e7737a9fdcaa52306415f3304"
-metafile = true
-
-[[files]]
-file = "resourcepacks/dynamic-surroundings-sounds-pack.pw.toml"
-hash = "759e730039ed770a9df01bcd6d88775df2351b43ad3b5ba69307febedfafbbe7"
 metafile = true
