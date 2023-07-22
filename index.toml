@@ -191,6 +191,11 @@ hash = "ff54075e027c8b92cd02c42e5030108cffb34358b92fd3ab4adcaf47c9d5b898"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "66e1f2dd3270ba592a425db035fd894655ee32389385843f08ec0e18b8e38d3d"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "6947155bf1ded4ed97e11e0c5b113266d706612f3b986adb297ec890681d881c"
 metafile = true
@@ -411,6 +416,16 @@ hash = "efc13c7bc347def6d1175ffb85610195c261c3267603c43b477901756d1d8dff"
 metafile = true
 
 [[files]]
+file = "mods/ob-aquamirae.pw.toml"
+hash = "8c1ad9a8b01d7de08fd55320bbbc9d34826fa4f85580962bfa49247f26beded8"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "88a94ed9a8274d5d88d881b0e91a83cbff309c5f02283df30f74922837fa5760"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "2584078440b47a3066e42a2d869d22715e486256e1d3ec5142008e2273f75860"
 metafile = true
@@ -603,11 +618,6 @@ metafile = true
 [[files]]
 file = "mods/utilitix.pw.toml"
 hash = "d61e9b5f4b2f8e3d1eef61d8170568a44e76ae935fa32d9c40a9593a08dd36e2"
-metafile = true
-
-[[files]]
-file = "mods/walkie-talkie.pw.toml"
-hash = "5f5f584c75025de1275f6b0a646974ef1e81b192b9cb21a3e41b728b5f8c5e70"
 metafile = true
 
 [[files]]
