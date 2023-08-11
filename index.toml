@@ -606,6 +606,11 @@ hash = "38cee16f00ed950e1f245f9de86dfbff938125f0461ad326fa81f659724a5d84"
 metafile = true
 
 [[files]]
+file = "mods/ultimate-car-mod.pw.toml"
+hash = "e1c2196ec7c2439b5db77aa140833e4f5eaec62de993bcee61e52c31a650d815"
+metafile = true
+
+[[files]]
 file = "mods/universal-enchants-forge.pw.toml"
 hash = "bbff1b0a4203256bf72932dee3e5bbab809754a7dbe414262278ad64598b2024"
 metafile = true
