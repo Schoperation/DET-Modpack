@@ -172,11 +172,6 @@ hash = "4fcf5557f323b235051c77e36fb105392e3d8428fccf098fb9d0021c5a705f93"
 metafile = true
 
 [[files]]
-file = "mods/compat-o-plenty.pw.toml"
-hash = "e111aa7a3eaf782eed64b526b9accdd353205fb91536ba10160138ead40447d7"
-metafile = true
-
-[[files]]
 file = "mods/configured.pw.toml"
 hash = "767d7abb22c9ac0b9e300d35685847ff27aa1a942cd857fac31fe532683c2437"
 metafile = true
@@ -227,8 +222,8 @@ hash = "b8ba0a251d14abf255a8477337c2d81023228c779793218ef3990247632ef86e"
 metafile = true
 
 [[files]]
-file = "mods/engineers-decor.pw.toml"
-hash = "86078f7819e53162c8624dc356663198d98c2829b689b4ae39dc52217824a027"
+file = "mods/every-compat.pw.toml"
+hash = "860de23c02a3c13493ffb88fc71499727ae82ccac6aba04b7d82aecadd36a2ff"
 metafile = true
 
 [[files]]
