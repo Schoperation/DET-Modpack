@@ -33,6 +33,10 @@ file = "config/apotheosis/village.cfg"
 hash = "9c06164bad9a22d779a4986dc231071e7a9d3bc8f1d7d67fa277999e510d2a78"
 
 [[files]]
+file = "config/lightmanscurrency-common.toml"
+hash = "f7547e77d96c45dcde31fd3cfefc34d4ac9d0508389ccbcb426a1fb34c7bd892"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "607f59c6a965d6f80bef23be9fcd28b9bd2a5b9fb2f037c27b91b35692e1811a"
 metafile = true
@@ -69,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "ff29316754f5561868f2fde142e4625b14b2130ac6073af78ee9449c4e2fc13b"
+hash = "ca5ab66e55fd02c0ec3a9234d90b5a0f81a42cebabc80ccadc4a2cfd6e806cf5"
 metafile = true
 
 [[files]]
@@ -144,12 +148,12 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "ced7e5a48b680016a0aa6644c6ac5bd1face190a51e0e14bde08cbd8f36ac4b5"
+hash = "56f4081cefa864a94f9d272bc7588602fc7feae0c4b8c21442cc0bc94bec14d2"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "d9a854dc615bafee94247c2ad9e9d794f291c37cd03b61b9323222ad4a4a96e5"
+hash = "10ee6e657f98a4c9ce0e6fb8bd615f7a0332fe9123df35b3a64ab8a0beeea7b6"
 metafile = true
 
 [[files]]
@@ -214,12 +218,12 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "97ee2160e052cd77b8c5b5e99b336ac0f16813591d557b6599356e43e7aff931"
+hash = "ed2d2ec22398c00fbdb17dca371cb100ca3ee1f66560a62fc245c8b813ab7f69"
 metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "7f915b470c95bd7f440b7389bb40e8b18c6cea2dd5b36db7dc343fa27e7b6594"
+hash = "a5e2662048acc97d31b42cac15365306be2a00de7939cf06fd180f8120916853"
 metafile = true
 
 [[files]]
@@ -274,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
-hash = "ec5ffd7252577376da15b704e21848b2f30d27bd6c6ef7f517d89201c914ec03"
+hash = "edea5d379a6252465e3de203639a8f9b495009a193e4542b999a6604f544f057"
 metafile = true
 
 [[files]]
@@ -294,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
-hash = "03eda3cb7e6a184e591d5853b12125a8b26634363ebfd00f069f177bbe190421"
+hash = "20522d1b5ed9de64c13eb822457f8e158ba0c5236b798ad3cb967863cd677514"
 metafile = true
 
 [[files]]
@@ -534,22 +538,22 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
+hash = "6ecdc44257c2ebb456c25b620f7416933be7c8d5810b5379a34ece0d885b641e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "47d5a23afaed0a13fe566deb178596e1d534b1e862016cee570ea378c6261d94"
+hash = "73649d35fa03c369a4efddd357a830fc5cda7e6217a3fc8cea2072049b70987c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "5e41e884d543e5fa64190978a907a997b9b35bc4061c94e5d5e670b9e874fe02"
+hash = "4fd88e71474d28d95569b6334fe663c619e504834e63fc26533936143e7d9521"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "46673a4df17be166f2518666a7e091916d6b594ea6e92ed279f421cc74d3f105"
+hash = "d313cdc1a95cacac2a1408b58ea7fd802e6d7bba7887cd44bdee61561dc1046c"
 metafile = true
 
 [[files]]
@@ -579,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3c5549599aac807cc3c89f77dc44629e5f110696aea3ec07b074bf2e3db0ed1f"
+hash = "7d9507de943b268b01fc0c0dbe3270fb062bca4eb8c318ae6458a466d719d13a"
 metafile = true
 
 [[files]]
