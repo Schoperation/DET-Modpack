@@ -172,6 +172,11 @@ hash = "4fcf5557f323b235051c77e36fb105392e3d8428fccf098fb9d0021c5a705f93"
 metafile = true
 
 [[files]]
+file = "mods/compat-o-plenty.pw.toml"
+hash = "e111aa7a3eaf782eed64b526b9accdd353205fb91536ba10160138ead40447d7"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "767d7abb22c9ac0b9e300d35685847ff27aa1a942cd857fac31fe532683c2437"
 metafile = true
