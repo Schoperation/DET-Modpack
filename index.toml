@@ -72,11 +72,6 @@ hash = "37c1c48d3380186cab08bda5983ddf3d8381211502787be3c8bc26bb644164f6"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "ca5ab66e55fd02c0ec3a9234d90b5a0f81a42cebabc80ccadc4a2cfd6e806cf5"
-metafile = true
-
-[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "48a1be62231995c1870fd839f9262470235e1c52f8ba07b36daceee50e8580d4"
 metafile = true
