@@ -41,6 +41,10 @@ file = "config/lightmanscurrency-common.toml"
 hash = "f7547e77d96c45dcde31fd3cfefc34d4ac9d0508389ccbcb426a1fb34c7bd892"
 
 [[files]]
+file = "defaultconfigs/car-server.toml"
+hash = "7001ceb78945029f58b9d1e982e4dc07341d5e4815be330f572b702adc0b011d"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "607f59c6a965d6f80bef23be9fcd28b9bd2a5b9fb2f037c27b91b35692e1811a"
 metafile = true
@@ -492,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "4ff2c897f7e25fb40a1414ea4a9bfec475b4d8562c0d8e7716e1c17abe472711"
+hash = "a4515fde53767771712eee4d94099fa60d6c6ef81405e615398a22ad2ce85e4c"
 metafile = true
 
 [[files]]
@@ -562,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7d9507de943b268b01fc0c0dbe3270fb062bca4eb8c318ae6458a466d719d13a"
+hash = "04f66b35c49ff70a68788345fb1fa99758bb79ee1b37ba42614d25964c5adb8a"
 metafile = true
 
 [[files]]
