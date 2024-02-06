@@ -1,13 +1,13 @@
 name = "NiftyBlocks"
-filename = "nifty-1.27.2.jar"
+filename = "niftyblocks-1.31.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5b4eaf34ac06eeacc628e94bed96f864e14ca132"
+hash = "33b75c805b25f4e30811d99c1a02c1049b8e0b49"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4443376
+file-id = 4683220
 project-id = 228189

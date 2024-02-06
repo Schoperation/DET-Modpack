@@ -1,13 +1,13 @@
 name = "Structory"
-filename = "Structory_1.19.3_v1.3.1a.jar"
+filename = "Structory_1.20.2_v1.3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ae50731f933366dc682bef8b54a637e099235c5b"
+hash = "741b533bb970d1f413f125b59545e73e04c36325"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4441631
+file-id = 4937872
 project-id = 636540

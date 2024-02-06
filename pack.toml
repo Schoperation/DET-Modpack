@@ -1,16 +1,16 @@
 name = "Packin' DET"
 author = "JaredSheep & Co."
-version = "1.6.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "485f269ad2239e9d1122ab9a0b85b3b6bbba56bbf0f6242d3b25fc92180c0004"
+hash = "6f2c18a6427babd4f19f28aaffcb3b0b98692145ab0ad817edf07b2a15a1cc30"
 
 [versions]
-forge = "43.3.7"
-minecraft = "1.19.2"
+forge = "47.2.20"
+minecraft = "1.20.1"
 
 [options]
-acceptable-game-versions = ["1.19", "1.19.1"]
+acceptable-game-versions = ["1.20"]
