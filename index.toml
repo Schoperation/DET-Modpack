@@ -80,6 +80,11 @@ hash = "c5cadb20a53649e39e4a388c2f7d74ae6dde1c7a7ba6b9967d7c61e78d63a76d"
 metafile = true
 
 [[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "b056940d55f3c34ebc8c80df1079168004280fb5d35119c29cca6bd0165b967e"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "a970ca6ffa0d4d985bc0bcb2e6b51c8a156e6e2a1118c924a4d5c213c9afd15c"
 metafile = true
@@ -232,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/flib.pw.toml"
+hash = "84c859b92abc5d7db0251d7bcc046293ff0a26729b92feaa3977e082263a9c06"
 metafile = true
 
 [[files]]
