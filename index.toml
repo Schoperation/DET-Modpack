@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "52614d4074179a2819bbb70aec41cf3dd181e6d4bf9763e181fb2fd2a539e189"
+hash = "960890be34fda21cd78de480ca9dc367b518500efde04fc7fc34bc94ac383d89"
 metafile = true
 
 [[files]]
@@ -207,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "e7ad61dcf53f29d2383c9a8b310800f1385babe705936da8e607698afb9f1a81"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "d3a861b09da982bbecbd4de30df89f802acefe1f621fa4e806c054e9a5426141"
 metafile = true
 
 [[files]]
@@ -487,11 +492,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5d8dd9d330ce4bbb0f3d75341f5e56cecfd9b571b8c9e27ea5922c2567e86369"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "875f489328325835edfef7c6cc404209d44d479969602b6693242b72a0cc92d5"
 metafile = true
 
 [[files]]
