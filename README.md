@@ -5,9 +5,10 @@ Basically the core of ATM8, with some different world gen mods, and whatever we 
 
 ## Update to 1.20.1 Progress
 
-Two issues
+Issues huzzah
 https://github.com/MehVahdJukaar/Supplementaries/issues/921
 https://github.com/Lightman314/LightmansCurrency/issues/186
+https://github.com/terrarium-earth/Handcrafted/issues/86
 
 ## Downloading
 
