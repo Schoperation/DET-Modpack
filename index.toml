@@ -485,6 +485,11 @@ hash = "7d9394525943d9c5bc49ea31f8368b10b59cbb6c72ae06f9569110a7d75f0544"
 metafile = true
 
 [[files]]
+file = "mods/reblured.pw.toml"
+hash = "beafbb6f7bb324a601f862c56220b657602b7d95a6511b8e66cbc706666b3f99"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
 metafile = true
@@ -506,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/seamless-loading-screen.pw.toml"
-hash = "ec6e34a9c1e1c9d0eae72c32069983d52b94816937fb61a9307ab98620c4375c"
+hash = "f48c01e2b3fa9ce8f5745b00e6129c4c4523ed4906bfed02dec127e256ad73f5"
 metafile = true
 
 [[files]]
