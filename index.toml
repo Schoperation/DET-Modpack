@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "e7ad61dcf53f29d2383c9a8b310800f1385babe705936da8e607698afb9f1a81"
+hash = "36672819f67335f5cdd349f49faa27582d6f7f68955c2a3d0e62584b6d6735ee"
 metafile = true
 
 [[files]]
@@ -222,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "fee90a2dfde9144736fd5a9001ce4240ba5f2c2a352bec0f7b575951997b1d1c"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "e865d328eb6badd94758241da83956ed1a5140931bf1afe87569dd812ac44686"
 metafile = true
 
 [[files]]
@@ -497,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "19f8a8633abf216f6f6dfdb8ffb18fe5eab0b4b3f39ada25c410ff2edd712959"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "ec6e34a9c1e1c9d0eae72c32069983d52b94816937fb61a9307ab98620c4375c"
 metafile = true
 
 [[files]]
