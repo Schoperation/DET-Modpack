@@ -240,6 +240,11 @@ hash = "e865d328eb6badd94758241da83956ed1a5140931bf1afe87569dd812ac44686"
 metafile = true
 
 [[files]]
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "d35eca8b8e960629890d82c35cc628f634010271fb64e3b5b98ebde0cbe2461a"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
@@ -605,6 +610,11 @@ hash = "19da0aa4007bd1ca94537bf80335fe88a87473e34af7b75bafb2e647d0d40562"
 metafile = true
 
 [[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "5eaa4fa6a1c57c47a7516724b27b3b75b35fd5aa1776f987907d5f15f91fa449"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "0a7ad44e0dce8b76f6a8be708fc7d9e0a41ab3b02c7c3891eb3b720cc39bc573"
 metafile = true
@@ -632,11 +642,6 @@ metafile = true
 [[files]]
 file = "mods/utilitix.pw.toml"
 hash = "c0d3632b83f9dd18ee4fbfd507175270574bde12e1983d168f7a30fe166f19d4"
-metafile = true
-
-[[files]]
-file = "mods/vivecraft.pw.toml"
-hash = "0b39588f28acb75d4a9eb22dd04e02b657d83b3e4b83dba40d502f9ddf6ab7e1"
 metafile = true
 
 [[files]]
