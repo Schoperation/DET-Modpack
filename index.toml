@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "dea292d9d0eacd1a34fb6bdc63a3158e635b10a051e5b22ed30d8fe4e452e117"
+hash = "f3ce6c150919511b327170472ceadfce2582e86faa81e8be856001b1eb3f0fe9"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "3a563d7e735cb608193370ebabf084576099ebba5014af1844496aa945c9afb7"
+hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
 metafile = true
 
 [[files]]
@@ -207,6 +207,16 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36672819f67335f5cdd349f49faa27582d6f7f68955c2a3d0e62584b6d6735ee"
+metafile = true
+
+[[files]]
+file = "mods/dimstorage.pw.toml"
+hash = "86ad6f30fa25a3392f9dc25b313601a0e6144e20e8f6c33c89cefd0b3c9ae499"
+metafile = true
+
+[[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "d47b5e5441de64d4d065ffac5c157535cf08ba2f7e84ee6c90d04c2ee532f322"
 metafile = true
 
 [[files]]
@@ -622,6 +632,11 @@ metafile = true
 [[files]]
 file = "mods/utilitix.pw.toml"
 hash = "c0d3632b83f9dd18ee4fbfd507175270574bde12e1983d168f7a30fe166f19d4"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "0b39588f28acb75d4a9eb22dd04e02b657d83b3e4b83dba40d502f9ddf6ab7e1"
 metafile = true
 
 [[files]]
