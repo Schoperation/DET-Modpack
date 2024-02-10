@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "15554f78b9b83b0d483d244203d8661ed1dae2a825d0322ecda48d1801be4764"
+hash = "c5342af3cb9d3620fd7c9e48f50b40669cefb7038788b0e183515cb87aed8e5a"
 metafile = true
 
 [[files]]
