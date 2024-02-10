@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "c5342af3cb9d3620fd7c9e48f50b40669cefb7038788b0e183515cb87aed8e5a"
+hash = "15554f78b9b83b0d483d244203d8661ed1dae2a825d0322ecda48d1801be4764"
 metafile = true
 
 [[files]]
@@ -236,12 +236,12 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "e865d328eb6badd94758241da83956ed1a5140931bf1afe87569dd812ac44686"
+hash = "92e38cb313d5d2748aabde31312b5b08a06a94d8f5559de0bd08c7ff1bd338ef"
 metafile = true
 
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
-hash = "d35eca8b8e960629890d82c35cc628f634010271fb64e3b5b98ebde0cbe2461a"
+hash = "eef4f2f033c1c8961e7a61f37d3207a63244344f309c195f454a967db64568d5"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "7609a22926714241b42b7100261ff7875745ec6a2126d556f92c41e8c002348c"
+hash = "d3f41ca65eeab7361d4ab1121cb2d8970991718fec6aa5debcd824258a94f68d"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
-hash = "63f72c88de128d1ff5c0330ad6baa24868630298c4e7a8a8c2b1d3127ebc3739"
+hash = "dc030e62e2c1d6230831b7fcceefcbd9160c124fb23e8d032141aaf6566f133f"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "a55d4387d5cb50319a37b4db07c441b202e60d85135b17dd01ec850ecf2f41bb"
+hash = "b3e629e8b1c4b895294926423d4c8e3ed2865e53badee88f5d19a095b08e71f7"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "5d8dd9d330ce4bbb0f3d75341f5e56cecfd9b571b8c9e27ea5922c2567e86369"
+hash = "6a21a1e165d71d5e676fae7aaa2872626145336b65cdd7aa68743741dc70fbd0"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b93996ea65ca3aba8832fac337d0645befe511c03342f533cc703f82e92aa58b"
+hash = "4ad9cfdd004e348abcd23969617b93269a4dbeb4d4942d44f0842690099a3205"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
-hash = "5eaa4fa6a1c57c47a7516724b27b3b75b35fd5aa1776f987907d5f15f91fa449"
+hash = "9f9a6ab9ec808c496a4c3fdb04a86135e1320ef7c151994079bf9d029b391c26"
 metafile = true
 
 [[files]]
