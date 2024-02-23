@@ -3,6 +3,13 @@
 The Newest, Ultimate Modpack from JaredSheep & Co.!
 Basically the core of ATM8, with some different world gen mods, and whatever we want later on!
 
+## Update to 1.20.1 Progress
+
+Issues huzzah
+- https://github.com/MehVahdJukaar/Supplementaries/issues/921
+- ~~https://github.com/Lightman314/LightmansCurrency/issues/186~~ solved
+- ~~https://github.com/terrarium-earth/Handcrafted/issues/86~~ unplanned
+
 ## Downloading
 
 ### CurseForge
