@@ -559,11 +559,6 @@ hash = "290cd15832077bc3bcc5a2544853981ce614f422ae65a795a164d74d4b7c6615"
 metafile = true
 
 [[files]]
-file = "mods/shimmer.pw.toml"
-hash = "bd9bd36ae7fb54a91dde0177d4a6892a2796e3ae057846e059d4a2c8ea09009c"
-metafile = true
-
-[[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "2b5abf66011d73a561205f40915b0497372078a33c6a69233b3d6823f0ad86d1"
 metafile = true
