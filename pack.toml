@@ -1,12 +1,12 @@
 name = "Packin' DET"
 author = "JaredSheep & Co."
-version = "2.0.0"
+version = "2.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "92511c07db5237d795194d7d1b361fdb508fe38456f94e255e8881a4834dbe82"
+hash = "52a36944f7736c08b3d84b2733f534a9709e707b8726d794ddaf274d945eed94"
 
 [versions]
 forge = "47.2.20"

@@ -37,6 +37,10 @@ file = "config/everycomp-wood_types.toml"
 hash = "44361124946ae5694231d79e6bcd062ffd27df7d27a18ba0a765be0b640cf527"
 
 [[files]]
+file = "config/lightmanscurrency-common.lcconfig"
+hash = "68d26bee5ea6c33593ba53283c0ed393b354c94fc75725af6ed200c5f4fba148"
+
+[[files]]
 file = "config/lightmanscurrency-common.toml"
 hash = "f7547e77d96c45dcde31fd3cfefc34d4ac9d0508389ccbcb426a1fb34c7bd892"
 
@@ -72,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/aether.pw.toml"
 hash = "4867921530f3d20012bd33a737c21d2d34d2c8b7659e350376884606d30a984a"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "47fd6edd460a3409d0942ca85d51be8a79842ea011428dd75679d74ad1a77572"
 metafile = true
 
 [[files]]
