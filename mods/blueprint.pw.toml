@@ -1,13 +1,13 @@
 name = "Blueprint"
-filename = "blueprint-1.20.1-7.0.0.jar"
+filename = "blueprint-1.20.1-7.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5cf7ab755a9ef27f817c772dbe3d0b6f3d972b21"
+hash = "a9538c69d0b5305194ad8b028b68c81d3ab56ad3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4594238
+file-id = 5147442
 project-id = 382216
