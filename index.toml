@@ -299,8 +299,18 @@ hash = "5780a8fe15320f3b6d11e8eabd5f114596e90e0b061e490466d3c0bf09a439eb"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5fbfa56a7bb591db33ffc31b2410ff5c7584fb1a21b4dd13687d51ad428643b2"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "ca3df6df3210338bbd18683eb2064ccd7cfa4e19e0c64f8ec0d93a09e888e4e9"
+metafile = true
+
+[[files]]
+file = "mods/hamsters.pw.toml"
+hash = "87ee798202183b64997cc36e88d5fb70330ce71da6797a0efaf537839eea78a2"
 metafile = true
 
 [[files]]
